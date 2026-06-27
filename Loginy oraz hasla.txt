@@ -1,0 +1,5 @@
+Czytelnik:
+jan / 1234
+
+Bibliotekarz:
+admin / admin
